@@ -1,0 +1,3 @@
+# Unexpected 'undefined' due to hoisting in JavaScript
+
+This repository demonstrates a common JavaScript bug related to variable hoisting.  The code in `bug.js` showcases how using `var` without proper initialization before access leads to an unexpected `undefined` output. The solution in `bugSolution.js` shows how to properly initialize variables to avoid this issue.  This is especially relevant for beginners learning about JavaScript's variable scoping and hoisting mechanism.
